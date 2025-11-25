@@ -2,7 +2,7 @@
 
 LifeStyle Pro is an end-to-end Data Science web application designed to help users manage their workout and nutrition goals using Machine Learning models deployed on Streamlit.
 
-🔗 **Live Demo:** [Buraya Streamlit Linki Gelecek - Birazdan Alacağız]
+🔗 **Live Demo:** [https://lifestyle-pro-ai-wi3u4jhcwprfk2tsducfln.streamlit.app/]
 
 ## 🚀 Features
 
